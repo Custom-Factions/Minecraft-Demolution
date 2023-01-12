@@ -1,0 +1,7 @@
+name: Demolution
+version: '${project.version}'
+main: net.maidkleid.demolution.Demolution
+api-version: 1.19
+depend:
+  - Demolution_Weaponpack
+authors: [ Hero_JonasHD ]

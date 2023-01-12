@@ -1,0 +1,5 @@
+name: MiniGameHandler
+version: '${project.version}'
+main: net.maidkleid.minigamehandler.MiniGameHandler
+api-version: 1.19
+authors: [ Hero_JonasHD ]
